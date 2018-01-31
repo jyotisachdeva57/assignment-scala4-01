@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/assignment-scala04-01/src/main/scala/edu/knoldus/folderFind/application/MenuLauncher.scala:14:15: not found: value Logger[0m
+[0m[[0m[31merror[0m] [0m[0m    val log = Logger.getLogger(this.getClass)[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
